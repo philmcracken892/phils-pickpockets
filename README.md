@@ -1,4 +1,4 @@
-# RSG-Core Player Robbery System
+# RSG-Core pickpocket System
 
 A script for RSG-Core that allows players to rob each other and take items from other players' inventories.
 
@@ -28,7 +28,7 @@ er
 6. Select an item to steal it from the victim
 
 ### As a Victim
-1. When being robbed, you'll receive a notification
+1. When being pickpocketed, you'll receive a notification
 
 
 
